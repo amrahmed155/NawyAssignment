@@ -3,7 +3,7 @@
 # dependencies
 /NodeJs/node_modules
 /React/node_modules
-
+/ApartmentApp/node_modules
 
 # next.js
 /React/.next/
